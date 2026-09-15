@@ -1,0 +1,13 @@
+{
+  "chart_type": "line",
+  "title": "Monthly Active Users",
+  "x_label": "Month",
+  "y_label": "Users (thousands)",
+  "data": {
+    "labels": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+    "series": [
+      { "name": "Free",    "values": [12, 15, 18, 22, 28, 33, 40, 46, 52, 60, 68, 76] },
+      { "name": "Premium", "values": [3, 4, 5, 6, 8, 10, 12, 15, 18, 21, 25, 30] }
+    ]
+  }
+}

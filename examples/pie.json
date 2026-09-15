@@ -1,0 +1,10 @@
+{
+  "chart_type": "pie",
+  "title": "Traffic Sources",
+  "data": {
+    "labels": ["Organic", "Direct", "Referral", "Social", "Paid"],
+    "series": [
+      { "name": "Sessions", "values": [4200, 2800, 1500, 900, 600] }
+    ]
+  }
+}

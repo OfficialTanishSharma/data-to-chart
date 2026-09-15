@@ -1,0 +1,15 @@
+{
+  "chart_type": "bar",
+  "title": "Quarterly Revenue by Region",
+  "x_label": "Quarter",
+  "y_label": "Revenue (Rs Lakh)",
+  "data": {
+    "labels": ["Q1", "Q2", "Q3", "Q4"],
+    "series": [
+      { "name": "North", "values": [120, 145, 138, 172] },
+      { "name": "South", "values": [98, 112, 130, 148] },
+      { "name": "West",  "values": [76, 89, 95, 108] }
+    ]
+  },
+  "options": { "stacked": false }
+}

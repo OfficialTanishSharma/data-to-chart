@@ -1,0 +1,14 @@
+{
+  "chart_type": "area",
+  "title": "Weekly Signups by Channel",
+  "x_label": "Week",
+  "y_label": "Signups",
+  "data": {
+    "labels": ["W1","W2","W3","W4","W5","W6","W7","W8"],
+    "series": [
+      { "name": "Search",  "values": [40, 52, 48, 65, 72, 68, 80, 88] },
+      { "name": "Social",  "values": [25, 30, 38, 42, 50, 55, 62, 70] },
+      { "name": "Email",   "values": [10, 12, 15, 14, 18, 20, 22, 25] }
+    ]
+  }
+}

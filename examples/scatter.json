@@ -1,0 +1,16 @@
+{
+  "chart_type": "scatter",
+  "title": "Ad Spend vs Conversions",
+  "x_label": "Ad Spend (Rs thousands)",
+  "y_label": "Conversions",
+  "data": {
+    "labels": [],
+    "series": [
+      {
+        "name": "Campaigns",
+        "x_values": [10, 15, 22, 28, 35, 42, 50, 58, 65, 72],
+        "values":   [120, 180, 260, 310, 420, 480, 590, 640, 720, 810]
+      }
+    ]
+  }
+}

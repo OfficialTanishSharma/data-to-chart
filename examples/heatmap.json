@@ -1,0 +1,14 @@
+{
+  "chart_type": "heatmap",
+  "title": "Hourly Activity by Day",
+  "data": {
+    "labels": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],
+    "series": [
+      { "name": "Morning",   "values": [40, 45, 42, 48, 55, 30, 25] },
+      { "name": "Afternoon", "values": [65, 70, 68, 72, 78, 50, 45] },
+      { "name": "Evening",   "values": [80, 82, 85, 88, 92, 70, 60] },
+      { "name": "Night",     "values": [30, 28, 32, 35, 48, 55, 40] }
+    ]
+  },
+  "options": { "colorscale": "Viridis" }
+}
