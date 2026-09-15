@@ -1,0 +1,18 @@
+{
+  "name": "data-to-chart",
+  "owner": {
+    "name": "Rolbol"
+  },
+  "metadata": {
+    "description": "AI Agent Skill for interactive charts",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "data-to-chart",
+      "description": "Turn raw data into interactive HTML charts",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

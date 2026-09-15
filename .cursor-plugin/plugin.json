@@ -1,0 +1,7 @@
+{
+  "name": "data-to-chart",
+  "version": "0.1.0",
+  "description": "Turn raw data into interactive HTML charts with Plotly",
+  "author": "Rolbol",
+  "license": "MIT"
+}
