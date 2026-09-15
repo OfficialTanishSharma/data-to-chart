@@ -39,6 +39,6 @@ time but not now." The agent never writes chart code — it only produces data.
 **Unix / macOS:**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/data-to-chart.git
+git clone https://github.com/OfficialTanishSharma/data-to-chart.git
 cd data-to-chart
 ./install.sh
